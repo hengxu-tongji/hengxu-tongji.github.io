@@ -18,4 +18,4 @@ Education
 Skills
 ======
 * Technical: Proficient in Microsoft Office Suite, Python, MATLAB, LaTeX, and GIS software (e.g., ArcGIS, QGIS).
-* Languages: Fluent in English and Mandarin
+* Languages: Fluent in English and Mandarin, beginner in Cantonese.
