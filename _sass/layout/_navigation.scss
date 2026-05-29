@@ -319,6 +319,19 @@
   }
 }
 
+.theme-only-nav {
+  min-width: 0;
+  text-align: right;
+
+  .visible-links {
+    margin-left: auto;
+  }
+
+  a {
+    margin: 0;
+  }
+}
+
 
 /*
    Navigation list
